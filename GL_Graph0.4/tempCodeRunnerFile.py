@@ -1,0 +1,1 @@
+Graph.paint2(figsize=(18,10),node_size=5000,width=2,pic_size=0.07,figure_name="term "+str(i))
